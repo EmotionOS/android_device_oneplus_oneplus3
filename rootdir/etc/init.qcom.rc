@@ -600,7 +600,7 @@ service ims_rtp_daemon /system/bin/ims_rtp_daemon
 service imscmservice /system/bin/imscmservice
     class main
     user system
-    group radio diag diag log
+    group radio diag log
     writepid /dev/cpuset/system-background/tasks
     disabled
 
