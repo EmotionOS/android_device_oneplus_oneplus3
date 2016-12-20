@@ -56,6 +56,9 @@ persist.data.iwlan.enable=true
 # Fingerprint
 persist.qfp=false
 
+# Google assistant
+ro.opa.eligible_device=true
+
 # GPS
 persist.gps.qc_nlp_in_use=1
 persist.loc.nlp_name=com.qualcomm.location
