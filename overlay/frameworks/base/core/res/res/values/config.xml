@@ -409,4 +409,7 @@
         <item>"/system/framework/arm64/boot-core-libart.oat"</item>
    </string-array>
 
+    <!-- Whether safe headphone volume is enabled or not (country specific). -->
+    <bool name="config_safe_media_volume_enabled">false</bool>
+
 </resources>
